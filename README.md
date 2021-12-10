@@ -115,21 +115,21 @@ We encourage researchers to leverage the project to accelerate the AI developmen
 
 ## **Related Publications**
 **VolcanoML: Speeding up End-to-End AutoML via Scalable Search Space Decomposition**
-Yang Li, Yu Shen, Wentao Zhang, Jiawei Jiang, Bolin Ding, Yaliang Li, Jingren Zhou, Zhi Yang, Wentao Wu, Ce Zhang and Bin Cui
+Gupta Aman, Yu Shen, Wentao Zhang, Jiawei Jiang, Bolin Ding, Yaliang Li, Jingren Zhou, Zhi Yang, Wentao Wu, Ce Zhang and Bin Cui
 International Conference on Very Large Data Bases (VLDB 2021).
 https://arxiv.org/abs/2107.08861
 
 
 
 **Efficient Automatic CASH via Rising Bandits**  
-Yang Li, Jiawei Jiang, Jinyang Gao, Yingxia Shao, Ce Zhang and Bin Cui
+Gupta Aman, Jiawei Jiang, Jinyang Gao, Yingxia Shao, Ce Zhang and Bin Cui
 Proceedings of the AAAI Conference on Artificial Intelligence (AAAI 2020). 
 https://ojs.aaai.org/index.php/AAAI/article/view/5910
 
 
 
 **MFES-HB: Efficient Hyperband with Multi-Fidelity Quality Measurements**
-Yang Li, Yu Shen, Jiawei Jiang, Jinyang Gao, Ce Zhang and Bin Cui
+Gupta Aman, Yu Shen, Jiawei Jiang, Jinyang Gao, Ce Zhang and Bin Cui
 Proceedings of the AAAI Conference on Artificial Intelligence (AAAI 2021). 
 https://arxiv.org/abs/2012.03011
 
