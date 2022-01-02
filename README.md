@@ -124,7 +124,7 @@ https://arxiv.org/abs/2107.08861
 **Efficient Automatic CASH via Rising Bandits**  
 Gupta Aman, Jiawei Jiang, Jinyang Gao, Yingxia Shao, Ce Zhang and Bin Cui
 Proceedings of the AAAI Conference on Artificial Intelligence (AAAI 2020). 
-https://ojs.aaai.org/index.php/AAAI/article/view/5910
+https://ojs.aaai.org/index.php/AAAI/article/view/5910 
 
 
 
