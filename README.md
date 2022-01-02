@@ -123,7 +123,7 @@ Gupta Aman, Jiawei Jiang, Jinyang Gao, Yingxia Shao, Ce Zhang and Bin Cui
 Proceedings of the AAAI Conference on Artificial Intelligence (AAAI 2020). 
 https://ojs.aaai.org/index.php/AAAI/article/view/5910 
 
-
+ 
 **MFES-HB: Efficient Hyperband with Multi-Fidelity Quality Measurements**
 Gupta Aman, Yu Shen, Jiawei Jiang, Jinyang Gao, Ce Zhang and Bin Cui
 Proceedings of the AAAI Conference on Artificial Intelligence (AAAI 2021). 
