@@ -1,6 +1,6 @@
 <p align="center">
 <img src="docs/imgs/logo.png" width="40%">
-</p>
+</p> 
  
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/thomas-young-2013/mindware/blob/master/LICENSE)
 [![Build Status](https://api.travis-ci.org/thomas-young-2013/mindware.svg?branch=master)](https://www.travis-ci.org/github/thomas-young-2013/mindware)
