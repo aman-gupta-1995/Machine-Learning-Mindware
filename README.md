@@ -25,7 +25,7 @@ The goal is to make machine learning easier to apply both in industry and academ
 * Researchers and data scientists who want to experiment new AutoML algorithms, may it be: hyper-parameter tuning algorithm, neural architect search method, etc.
 
 
-## Design Principles
+## Design Principles 
 
 - __User friendliness.__ MindWare needs few human assistance. To use MindWare, the users can define the task by writing only a few lines of code, regardless of the techinical details of the execution of the system.
 - __High extensibility.__ New state-of-the-art ML algorithms or feature engineer operations can be added to the system. The decomposition techniques in MindWare ensures the efficiency of finding the best configurations over the enlarged search space. 
