@@ -95,7 +95,6 @@ To learn more about making a contribution to MindWare, please refer to our [How-
 We appreciate all contributions and thank all the contributors!
 
 
-
 ## **Feedback**
 * Check [the existing open and closed issues](https://github.com/thomas-young-2013/mindware/issues?q=is%3Aissue).
 * [File an issue](https://github.com/thomas-young-2013/mindware/issues/new/choose) on GitHub.
