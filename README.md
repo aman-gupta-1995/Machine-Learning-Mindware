@@ -18,7 +18,6 @@ It is capable of improving its AutoML power by decomposing the entire large Auto
 MindWare is designed and developed by the AutoML team from the <a href="http://net.pku.edu.cn/~cuibin/" target="_blank" rel="nofollow">DAIR Lab</a> at Peking University.
 The goal is to make machine learning easier to apply both in industry and academia, and help facilitate data science.
 
-
 ## Who Should Consider MindWare
 * Non-expert users who want to use machine learning techniques in their applications.
 * ML Platform owners who want to support AutoML in their platform.
