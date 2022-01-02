@@ -76,7 +76,7 @@ train_data = dm.get_data_node(X_train, y_train)
 test_data = dm.get_data_node(X_test, y_test)
 
 clf = Classifier(time_limit=3600)
-clf.fit(train_data)
+clf.fit(train_data) 
 
 pred = clf.predict(test_data)
 ```
