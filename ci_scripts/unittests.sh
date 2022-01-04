@@ -15,4 +15,3 @@ do
         exit $rval
     fi
 done
- 
