@@ -1,4 +1,4 @@
-## Error: command '/usr/bin/clang' failed with exit status 1 
+## Error: command '/usr/bin/clang' failed with exit status 1
 When you install the `pyrfr` package, you might get this problem.
 CFLAGS=-stdlib=libc++ pip install smac
 
