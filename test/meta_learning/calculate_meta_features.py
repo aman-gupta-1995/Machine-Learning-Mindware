@@ -5,7 +5,7 @@ import pickle as pk
 sys.path.append(os.getcwd())
 from mindware.datasets.utils import calculate_metafeatures
 from mindware.components.utils.constants import MULTICLASS_CLS
-
+ 
 datasets = ['balloon', 'kc1', 'quake', 'segment', 'madelon', 'space_ga',
             'kr-vs-kp', 'cpu_small', 'sick', 'hypothyroid(1)', 'hypothyroid(2)',
             'pollen', 'analcatdata_supreme', 'splice', 'abalone', 'spambase',
