@@ -16,7 +16,7 @@ datasets = ['balloon', 'kc1', 'quake', 'segment', 'madelon', 'space_ga',
 
 task_ids = list()
 X = list()
-result = dict() 
+result = dict()
 sorted_keys = None
 
 for _dataset in datasets:
