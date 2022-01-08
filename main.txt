@@ -18,3 +18,4 @@ scipy>=0.18.1
 scikit-optimize>=0.8
 
 openbox
+ 
