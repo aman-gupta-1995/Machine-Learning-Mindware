@@ -5,7 +5,7 @@ liac-arff
 psutil
 pyyaml
 statsmodels
-lightgbm
+lightgbm 
 terminaltables 
 
 scikit-learn>=0.22.1 
