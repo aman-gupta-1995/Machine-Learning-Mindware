@@ -6,7 +6,7 @@ psutil
 pyyaml
 statsmodels
 lightgbm
-terminaltables 
+terminaltables
  
 scikit-learn>=0.22.1
 tabulate>=0.8.5
