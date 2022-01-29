@@ -27,7 +27,7 @@ class BaseEstimator(object):
             per_run_time_limit=150,
             random_state=1,
             n_jobs=1,
-            evaluation='holdout',
+            evaluation='holdout', 
             resampling_params=None,
             output_dir="/tmp/",
             delete_output_dir_after_fit=False):
