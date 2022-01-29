@@ -29,7 +29,7 @@ class BaseEstimator(object):
             n_jobs=1,
             evaluation='holdout', 
             resampling_params=None,
-            output_dir="/tmp/",
+            output_dir="/tmp/", 
             delete_output_dir_after_fit=False):
         self.dataset_name = dataset_name
         self.metric = metric
