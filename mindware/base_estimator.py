@@ -2,7 +2,7 @@ import os
 import sys      
 import traceback           
 import time             
-import numpy as np          
+import numpy as np           
 import pandas as pd       
 import shutil   
  
@@ -22,7 +22,7 @@ class BaseEstimator(object):
             enable_meta_algorithm_selection=True,
             enable_fe=True,
             optimizer='smac',
-            ensemble_method='ensemble_selection',
+            ensemble_method='ensemble_selection', 
             ensemble_size=50,
             per_run_time_limit=150,
             random_state=1,
