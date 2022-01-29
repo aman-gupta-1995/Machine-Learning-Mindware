@@ -31,7 +31,7 @@ class BaseEstimator(object):
             resampling_params=None,
             output_dir="/tmp/", 
             delete_output_dir_after_fit=False): 
-        self.dataset_name = dataset_name
+        self.dataset_name = dataset_name 
         self.metric = metric
         self.task_type = None
         self.time_limit = time_limit
