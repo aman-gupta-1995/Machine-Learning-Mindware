@@ -31,7 +31,7 @@ def rename1():
         if _filename.startswith('.') or _filename.startswith('meta') or _filename.startswith('ranker'):
             continue
         used_name = data_folder + _filename
-        print(_filename)
+        print(_filename) 
         if len(_filename.split('-')) > 5:
             splits = _filename.split('-')
             dataset = '-'.join(splits[:len(splits)-4])
