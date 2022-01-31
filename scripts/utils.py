@@ -1,7 +1,7 @@
 import os
 import re
 data_folder = 'data/meta_res_cp/'  
-filename_list = os.listdir(data_folder)    
+filename_list = os.listdir(data_folder)     
 algorithms = ['lightgbm', 'random_forest',    
               'libsvm_svc', 'extra_trees',            
               'liblinear_svc', 'k_nearest_neighbors',   
@@ -15,7 +15,7 @@ print(pattern)
 def rename():
     for _filename in filename_list:
         used_name = data_folder + _filename
-        if _filename.startswith('.'):
+        if _filename.startswith('.'): 
             continue
 
         print(_filename)
