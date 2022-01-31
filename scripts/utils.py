@@ -5,7 +5,7 @@ filename_list = os.listdir(data_folder)
 algorithms = ['lightgbm', 'random_forest', 
               'libsvm_svc', 'extra_trees',     
               'liblinear_svc', 'k_nearest_neighbors',   
-              'logistic_regression', 
+              'logistic_regression',  
               'gradient_boosting', 'adaboost'] 
 algo_str = '|'.join(algorithms)
 pattern = '(.*)_(%s)_(\d+)_(\d+)_20.pkl' % algo_str
