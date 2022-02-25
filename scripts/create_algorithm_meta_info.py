@@ -6,7 +6,7 @@ import numpy as np
 from sklearn.metrics import balanced_accuracy_score
 
 sys.path.append(os.getcwd()) 
-from autosklearn.classification import AutoSklearnClassifier
+from autosklearn.classification import AutoSklearnClassifier 
 from autosklearn.pipeline.components.classification import add_classifier
 
 from mindware.components.utils.constants import MULTICLASS_CLS, BINARY_CLS, REGRESSION, CLS_TASKS, CATEGORICAL
