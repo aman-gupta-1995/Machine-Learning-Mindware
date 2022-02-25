@@ -2,7 +2,7 @@ import os
 import sys 
 import pickle  
 import argparse    
-import numpy as np
+import numpy as np 
 from sklearn.metrics import balanced_accuracy_score
 
 sys.path.append(os.getcwd())
