@@ -156,3 +156,4 @@ if __name__ == "__main__":
     # Write down the error info.
     with open(save_dir + 'failed-%s' % log_filename, 'w') as f:
         f.write('\n'.join(running_info))
+ 
