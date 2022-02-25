@@ -31,7 +31,7 @@ time_limit = args.time_limit
 save_dir = './data/meta_res/' 
 if not os.path.exists(save_dir):
     os.makedirs(save_dir)
-cls_metrics = ['acc', 'f1', 'auc']
+cls_metrics = ['acc', 'f1', 'auc'] 
 reg_metrics = ['mse', 'r2', 'mae']
 
 
