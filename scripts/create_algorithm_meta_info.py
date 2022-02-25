@@ -5,7 +5,7 @@ import argparse
 import numpy as np 
 from sklearn.metrics import balanced_accuracy_score
 
-sys.path.append(os.getcwd())
+sys.path.append(os.getcwd()) 
 from autosklearn.classification import AutoSklearnClassifier
 from autosklearn.pipeline.components.classification import add_classifier
 
