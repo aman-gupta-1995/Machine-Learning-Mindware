@@ -4,7 +4,7 @@ nose
 liac-arff 
 psutil 
 pyyaml 
-statsmodels 
+statsmodels  
 lightgbm 
 terminaltables
 
