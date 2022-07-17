@@ -5,7 +5,7 @@ echo Testing from directory `pwd`
 conda list
  
 files=$(ls $folder)
-for file in $files   
+for file in $files    
 do
     echo "Begin to run $file"
     python $file
