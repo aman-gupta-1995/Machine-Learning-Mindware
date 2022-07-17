@@ -2,7 +2,7 @@ cd examples/ci_examples
 
 echo Testing revision $(git rev-parse HEAD) ...
 echo Testing from directory `pwd`
-conda list
+conda list 
    
 files=$(ls $folder)   
 for file in $files       
