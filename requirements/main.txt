@@ -1,7 +1,7 @@
 setuptools
 cython
 nose
-liac-arff
+liac-arff 
 psutil
 pyyaml 
 statsmodels
