@@ -3,7 +3,7 @@ cython
 nose
 liac-arff 
 psutil 
-pyyaml  
+pyyaml   
 statsmodels   
 lightgbm  
 terminaltables 
