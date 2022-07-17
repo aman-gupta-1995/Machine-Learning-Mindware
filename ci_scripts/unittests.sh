@@ -4,7 +4,7 @@ echo Testing revision $(git rev-parse HEAD) ...
 echo Testing from directory `pwd`
 conda list
  
-files=$(ls $folder) 
+files=$(ls $folder)  
 for file in $files    
 do
     echo "Begin to run $file"
