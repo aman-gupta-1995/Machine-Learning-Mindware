@@ -4,7 +4,7 @@ from pathlib import Path
 from setuptools import setup, find_packages 
    
 requirements = dict()  
-for extra in ["dev", "main"]:
+for extra in ["dev", "main"]: 
     # Skip `package @ git+[repo_url]` because not supported by pypi
     requirements[extra] = [r
                            for r in Path("requirements/%s.txt" % extra).read_text().splitlines()
