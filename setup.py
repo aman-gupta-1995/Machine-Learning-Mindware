@@ -2,7 +2,7 @@ import sys
 import importlib.util 
 from pathlib import Path 
 from setuptools import setup, find_packages 
- 
+  
 requirements = dict() 
 for extra in ["dev", "main"]:
     # Skip `package @ git+[repo_url]` because not supported by pypi
