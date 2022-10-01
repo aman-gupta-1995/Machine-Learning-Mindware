@@ -2,7 +2,7 @@ setuptools
 cython
 nose 
 liac-arff 
-psutil  
+psutil   
 pyyaml     
 statsmodel 
 lightgbm 
