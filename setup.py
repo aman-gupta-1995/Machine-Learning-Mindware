@@ -1,6 +1,6 @@
 import sys
 import importlib.util
-from pathlib import Path
+from pathlib import Path 
 from setuptools import setup, find_packages
 
 requirements = dict()
