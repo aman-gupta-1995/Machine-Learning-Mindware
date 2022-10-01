@@ -54,7 +54,7 @@ setup(name=package_name,
       test_suite='nose.collector',
       entry_points={
         "console_scripts": [
-            "mindware = mindware.__main__:main",
+            "mindware = mindware.__main__:main", 
         ]
       }
 )
