@@ -29,7 +29,7 @@ version = pkginfo.version
 package_name = pkginfo.package_name
 
 
-# The directory containing this file
+# The directory containing this file 
 HERE = Path(__file__).parent
 
 # The text of the README file
