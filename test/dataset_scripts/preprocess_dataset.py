@@ -2,7 +2,7 @@ import numpy as np
 import pandas as pd
 
    
-def transform_poker():  
+def transform_poker():   
     data_path = 'data/datasets/poker.txt'  
     saved_path = 'data/datasets/poker.csv'     
     data = list() 
