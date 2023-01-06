@@ -3,7 +3,7 @@ import pandas as pd
 
    
 def transform_poker():  
-    data_path = 'data/datasets/poker.txt' 
+    data_path = 'data/datasets/poker.txt'  
     saved_path = 'data/datasets/poker.csv'     
     data = list()
     with open(data_path, 'r') as f:  
