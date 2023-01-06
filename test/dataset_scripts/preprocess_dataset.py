@@ -6,7 +6,7 @@ def transform_poker():
     data_path = 'data/datasets/poker.txt'     
     saved_path = 'data/datasets/poker.csv'     
     data = list()   
-    with open(data_path, 'r') as f:  
+    with open(data_path, 'r') as f:   
         for line in f.readlines()[1:10001]:
             sample = [0.] * 11
             fields = line.strip()[1:-1].split(',')
